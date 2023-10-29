@@ -25,6 +25,6 @@ Libraries I used:
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Add a delete option.
 * Add a category section where a user can create a category and put their ToDos in each category selected.
 * Add an until date where a user will be notified via alarm when the ToDo is almost due.
+* Add an option to add the ToDo to your calendar
